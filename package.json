@@ -1,0 +1,19 @@
+{
+  "name": "week18mongo",
+  "version": "1.0.0",
+  "description": "Scraping and MongoDB\r In this assignment, you'll create a web app that lets users leave comments on the latest news. But you're not going to actually write any articles; instead, you'll flex your Mongoose and Cheerio muscles to scrape news from another site.\r Remember",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EternalVigil/week18-mongo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EternalVigil/week18-mongo/issues"
+  },
+  "homepage": "https://github.com/EternalVigil/week18-mongo#readme"
+}
